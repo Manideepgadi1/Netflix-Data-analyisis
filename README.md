@@ -1,3 +1,4 @@
+# Movies Dataset Analysis
 🎬 Movies Dataset Analysis
 This project analyzes a dataset of movies with a focus on genres, popularity, and release trends. The data was explored using Python in a Jupyter Notebook, and this repository includes insights based on the analysis.
 
